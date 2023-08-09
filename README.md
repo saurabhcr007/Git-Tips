@@ -11,7 +11,7 @@ Git commands are like magic words that let you tell Git what to do. You use them
 
 ## If you want to push your code on GitHub but you don’t want to learn commands
 
-### You can use GitHub Desktop[https://desktop.github.com/]
+### You can use [GitHub Desktop](https://desktop.github.com/)
 
 ### So what is GitHub desktop ?
 
@@ -19,5 +19,9 @@ GitHub Desktop is a user-friendly computer program that makes using Git easier. 
 
 ### Now you ask how to use it , So let me tell you :-
 
-First, download the GitHub Desktop from the link https://desktop.github.com/[https://desktop.github.com/], login with you GitHub account.
+First, download the GitHub Desktop from the link https://desktop.github.com/, login with you GitHub account.
+
+<picture>
+<img src="./reference-img/change%20repo.png">
+</picture>
 
