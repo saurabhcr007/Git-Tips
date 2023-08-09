@@ -21,7 +21,32 @@ GitHub Desktop is a user-friendly computer program that makes using Git easier. 
 
 First, download the GitHub Desktop from the link https://desktop.github.com/, login with you GitHub account.
 
+After that, at left top corner click on **change repository**
+
 <picture>
 <img src="./reference-img/change%20repo.png">
 </picture>
 
+In change repository , click add then select as per your choice.
+
+<picture>
+<img src="./reference-img/Screenshot%20(9).png">
+</picture>
+
+Now you GitHub desktop is setup for your current project.
+
+Now after the changes in github you simple have to open the GitHub Desktop and click on (Commit to MAIN) then Push origin.
+
+<picture>
+<img src="./reference-img/git%2012.png">
+</picture>
+
+### Simple now you code is pushed on GitHub without any command.....
+
+## But if You want to learn git commands but hates the reading long documentation without visuals.
+
+So there is a website which will help you to learn git with the levels so you can master the git commands.
+
+https://learngitbranching.js.org/ **I have also learn my git from here**...
+
+# Tips by :- Saurabh Chaudhary [GitHub]()
