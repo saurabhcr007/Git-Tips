@@ -47,6 +47,7 @@ Now after the changes in github you simple have to open the GitHub Desktop and c
 
 So there is a website which will help you to learn git with the levels so you can master the git commands.
 
-https://learngitbranching.js.org/ **I have also learn my git from here**...
+## https://learngitbranching.js.org/ **I have also learn my git from here**
+## https://ohmygit.org/ **You Can try this also**
 
 # Tips by :- Saurabh Chaudhary [GitHub]()
